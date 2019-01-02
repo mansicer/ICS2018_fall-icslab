@@ -1,6 +1,10 @@
 # ICS2018_fall-icslab
 The lab assignments of Introduction of Computer System course of NJU.
 
+Please work and run on a Linux system.
+
+请务必在Linux环境下运行！
+
 ## Menu 目录
 
 1. lab1 datalab 数据表示与操作
