@@ -1,9 +1,10 @@
 # ICS2018_fall-icslab
+该项目的所有内容仅供参考，请遵守南京大学以及ICS课程的学术诚信要求，一切抄袭行为后果自负！
+
 The lab assignments of Introduction of Computer System course of NJU.
 
 Please work and run on a Linux system.
 
-请务必在Linux环境下运行！
 
 ## Menu 目录
 
